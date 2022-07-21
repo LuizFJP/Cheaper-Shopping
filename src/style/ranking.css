@@ -1,0 +1,15 @@
+.list-ranking {
+    display: flex;
+    justify-content: center;
+}
+
+.ranking-container {
+    align-items: center;
+}
+.ranking-user {
+    display: flex;
+    justify-content: space-evenly;
+}
+.photo-user-ranking {
+    width: 100px
+}

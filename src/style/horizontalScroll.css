@@ -1,0 +1,23 @@
+.wrapper {
+    max-height: 600px;
+    border: 1px solid #ddd;
+    display: flex;
+    overflow: auto;
+}
+
+.wrapper::-webkit-scrollbar {
+    width: 0;
+}
+
+.wrapper .item {
+    min-width: 250px;
+    height: 350px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #ddd;
+    margin-right: 2px;
+}
+
+.item-img {
+    width: 200px;
+}

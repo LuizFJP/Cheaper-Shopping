@@ -1,0 +1,7 @@
+.todo-container {
+    background-color: bisque;
+    width: 2px;
+    min-height: 100%;
+    height: 500px;
+    content: "";
+}
